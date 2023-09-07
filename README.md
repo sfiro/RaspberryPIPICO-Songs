@@ -38,4 +38,6 @@ Te invito a visitar y darle muchos likes, porque se nota el gran trabajo, yo sol
 ## Puedes visitar mis perfiles siempre estoy compartiendo INFO
 
 * [Mi pagina WEB] (https://tutosingenieria1.blogspot.com/)
-
+* [Mi canal de youtube] (https://www.youtube.com/c/TutosIngenieria)
+* [Mi linkeind] (https://www.linkedin.com/in/debbiearredondo/)
+* [Mi Instagram] (https://www.instagram.com/tutosingenieria)
