@@ -11,7 +11,7 @@ El buzzer debe ser conectado al pin GND y el PIN 15 del raspberry pi pico.
 
 AGREGAR IMAGEN !!!!
 
-![imagen esquemático](ruta)
+![imagen esquemático](esquematico.png)
 
 
 ## Agradecimientos
